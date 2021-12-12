@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @subtlemortal
+- 👋 Hi, I’m Shantanu Unde
 - 👀 I’m interested in learning Github
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Python
-- 📫 Reach me on IG @subtlemortal
+- 🌱 I’m currently learning Full Stack.
 
 <!---
 subtlemortal/subtlemortal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
